@@ -1,0 +1,10 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <me.lino.captchainputdemo.view.imebugfixer.ImeDelBugFixedEditText
+        android:id="@+id/inputView"
+        style="@style/GridPasswordView.EditText"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:inputType="numberPassword" />
+
+</merge>
